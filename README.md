@@ -8,7 +8,7 @@
 <p>I'm a passionate developer from Kanpur, India, specializing in IoT, AI/ML, Embedded Systems, and Remote Sensing Devices. As a recognized <strong>Young Scientist of India</strong>, I actively contribute to <strong>hackathons</strong>, research, and <strong>project development</strong>. I work with global organizations and institutions to foster technological innovation for a better future.</p>
 
 - 🔭 Currently working on an **LLM project** focused on large-scale AI models.
-- 🌱 Learning **Flutter** to build mobile apps.
+- 🌱 Learning **Flutter** to build mobile,and ios apps.
 - 🎓 Collaborated with **ISRO, DRDO**, and **MoE's Innovation Cell** on R&D projects.
 - 🏆 Awarded **Young Scientist** of India by the **Government of India**.
 - 💡 Participated in over **50+ national and international science festivals**.
